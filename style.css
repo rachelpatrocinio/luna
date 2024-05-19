@@ -4,6 +4,10 @@
     font-style: normal;
 }
 
+a{
+    color: currentColor;
+}
+
 img{
     max-width: 100%;
 }
@@ -58,8 +62,15 @@ svg.down{
 /* FOOTER */
 .main-footer{
     margin-top: 0;
+    color: black;
 }
 
 .footer-img{
     width: 300px;
 }
+
+.three{
+    font-size: 40px;
+    color: #FE2A38;
+}
+
