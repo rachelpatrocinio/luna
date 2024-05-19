@@ -1,0 +1,65 @@
+*{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img{
+    max-width: 100%;
+}
+
+body{
+    color: white;
+    background-color: #FAD5DA;;
+}
+
+/* MAIN */
+
+main{
+    background-color: #FE2A38;
+}
+
+/* MAIN - PHOTOSHOOT */
+
+.photoshoot img{
+    border-radius: 999px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.invitation{
+    width: 100%;
+}
+
+.when-img{
+    width: 100px;
+}
+
+.baptism-img,
+.reception-img{
+    width: 150px;
+}
+
+.countdown{
+    margin: 0 auto;
+}
+
+.map{
+    width: 300px;
+    margin-top: 20px;
+    height: 200px;
+}
+
+svg.down{
+    transform: rotate(180deg);
+    top: -10px;
+}
+
+/* FOOTER */
+.main-footer{
+    margin-top: 0;
+}
+
+.footer-img{
+    width: 300px;
+}
