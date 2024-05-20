@@ -39,6 +39,11 @@ main{
     width: 100px;
 }
 
+.baptism,
+.location{
+    margin-top: 120px;
+}
+
 .baptism-img,
 .reception-img{
     width: 150px;
