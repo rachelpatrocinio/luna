@@ -65,6 +65,10 @@ svg.down{
     color: black;
 }
 
+.main-footer h4{
+    color: #FE2A38;
+}
+
 .footer-img{
     width: 300px;
 }
