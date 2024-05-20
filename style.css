@@ -46,12 +46,13 @@ main{
 
 .countdown{
     margin: 0 auto;
+    width: 100%;
 }
 
 .map{
     width: 300px;
-    margin-top: 20px;
     height: 200px;
+    margin: 0 auto;
 }
 
 svg.down{
@@ -119,4 +120,25 @@ svg.down{
         opacity: 1;
         transform: translateX(0px);
     }
+}
+
+@media screen and (min-width: 698px){
+    body,
+    header{
+        width: 600px;
+        margin: 0 auto;
+    }
+
+    .main-footer .row,
+    .doble-img,
+    .countdown,
+    {
+        width: 500px;
+        margin: 0 auto;
+    }
+
+    .map{
+        width: 500px;
+    }
+
 }
