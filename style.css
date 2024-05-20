@@ -131,8 +131,7 @@ svg.down{
 
     .main-footer .row,
     .doble-img,
-    .countdown,
-    {
+    .countdown{
         width: 500px;
         margin: 0 auto;
     }
