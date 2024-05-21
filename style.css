@@ -91,6 +91,14 @@ svg.down{
     margin: 0 auto;
 }
 
+.developer{
+    background-color: #FE2A38;
+}
+
+.developer-svg{
+    bottom: -10px;
+}
+
 
 
 .reveal {
